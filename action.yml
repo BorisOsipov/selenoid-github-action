@@ -1,4 +1,4 @@
-name: 'Start Selenoid Server'
+name: 'Start Selenoid Server New'
 description: 'Downloads and starts Selenoid server (Selenium Webdriver compatible) using CM tool'
 inputs:
   selenoid-start-arguments:  
